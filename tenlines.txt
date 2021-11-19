@@ -34,3 +34,4 @@ Look at Owner’s GitHub repo and see new commit(s) from Collaborator.
 Download (pull) Collaborators changes to Owner’s local repo:
 $ git pull origin master
 
+E.show how a file modified by a member is updated to every team member
